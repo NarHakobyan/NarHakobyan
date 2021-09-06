@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+```json
+{
+  "name": "Narek Hakobyan",
+  "skills":["typescript","nestjs", "angular", "flutter"]
+}
+```
