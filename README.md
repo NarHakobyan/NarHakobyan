@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 ```json
 {
   "name": "Narek Hakobyan",
-  "skills":["Typescript", "Node.js","NestJS", "Angular", "Flutter"]
+  "skills":["Typescript", "Node.js", "NestJS", "Angular", "Flutter"]
 }
 ```
